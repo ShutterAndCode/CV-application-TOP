@@ -60,6 +60,7 @@ function GeneralInfo() {
                 changePhone(event.target.value);
               }}
             />
+            <br />
             <button type="submit"> Submit </button>
           </form>
         </div>
